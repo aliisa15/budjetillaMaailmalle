@@ -1,2 +1,3 @@
-# budjetillaMaailmalle
-Front end practice.
+# Budjetilla Maailmalle
+Front end -kurssille toteutettu React-sovellus.
+
